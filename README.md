@@ -82,6 +82,9 @@ To replicate the results from raw data to final evaluation, please follow this s
 | Dictionary (`tone_dict`) | -0.9630% | 0.3444 |
 | Unsupervised (`tone_pca`) | -2.5932% | 0.8575 |
 
+![Uploading image.png…]()
+
+
 *Note: Only the weakly supervised measure provides positive marginal predictive value for short-term interest rates.*
 *注：仅弱监督测度为短端利率变化提供了正向的边际预测价值。*
 
