@@ -1,0 +1,2 @@
+target,sample_period,oos_improve_pct,cw_pvalue,n_oos,oos_start_month,oos_end_month,selection_rule,note
+dshibor3m,pre_covid,1.0205,0.1022,60,2015-01,2019-12,cw_pvalue<0.2,Selected as main OOS target based on positive improvement and low CW p-value.

@@ -1,0 +1,4 @@
+﻿target,sample_period,policy_var,oos_improve_pct,cw_pvalue,n_oos,oos_start_month,oos_end_month
+dshibor3m,pre_covid,tone_logit,1.0205,0.1022,60,Jan-15,Dec-19
+dshibor3m,pre_covid,tone_dict,-0.963,0.3444,60,Jan-15,Dec-19
+dshibor3m,pre_covid,tone_pca,-2.5932,0.8575,60,Jan-15,Dec-19

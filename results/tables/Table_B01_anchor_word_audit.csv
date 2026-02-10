@@ -1,0 +1,4 @@
+﻿index,anchor_set,corr_pos,corr_neg,corr_net,direction_note
+tone_dict,high_freq,0.2558,-0.4539,0.4753,positive corr_net implies expansion-oriented sign
+tone_pca,high_freq,0.0145,-0.0984,0.058,positive corr_net implies expansion-oriented sign
+tone_logit,high_freq,0.5479,-0.0757,0.6346,positive corr_net implies expansion-oriented sign

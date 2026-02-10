@@ -1,0 +1,2 @@
+﻿sample_period,rmse_ar12,rmse_xgb,improve_pct,n_oos,oos_start_month,oos_end_month
+pre_covid,0.3575080250933241,0.4726068771126173,-32.1947603803433,34,2017-03,2019-12
